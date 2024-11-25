@@ -1,4 +1,4 @@
-All Code for Conway's Game of Life using java swing.
+All things related to Conway's Game of Life using java swing and DrawingPanel.Java
 
 
 
