@@ -3,7 +3,7 @@ All things related to Conway's Game of Life using java swing and DrawingPanel.Ja
 
 
 
-Stages of conway's game of life with live cells starting as a 5-pentamino
+Stages of conway's game of life with live cells starting as a R-pentamino
 
 
 Stage 1 - just starting.
