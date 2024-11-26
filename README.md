@@ -14,10 +14,13 @@ All things related to Conway's Game of Life using java swing and DrawingPanel.Ja
 
 
 
+Demonstration of the game of life playing
+
+https://github.com/user-attachments/assets/9f08c873-eb59-4c4c-8c54-26ad73439555
 
 
 
-https://github.com/user-attachments/assets/330df89b-7d6c-42a6-9aea-744be3662977
+
 
 
 
