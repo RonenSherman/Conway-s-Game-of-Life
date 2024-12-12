@@ -1,4 +1,6 @@
 Ronen Sherman - 2024
+
+
 All things related to Conway's Game of Life using java swing and DrawingPanel.Java
 
 
